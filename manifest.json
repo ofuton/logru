@@ -1,7 +1,7 @@
 {
-    "name": "todone",
+    "name": "logru",
     "version": "0.0.1",
-    "description": "Awesome KANBAN extension for kintone.",
+    "description": "Awesome log chrome extension for kintone.",
     "manifest_version": 2,
     "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
     "content_scripts": [

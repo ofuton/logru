@@ -1,7 +1,7 @@
 {
-    "name": "todone",
+    "name": "logru",
     "version": "0.0.1",
-    "description": "Awesome KANBAN extension for kintone.",
+    "description": "Awesome log chrome extension for kintone.",
     "dependencies": {},
     "devDependencies": {
         "@types/chrome": "0.0.86",
@@ -30,12 +30,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+http://github.com/ofuton/todone.git"
+        "url": "git+http://github.com/ofuton/logru.git"
     },
     "keywords": [
         "extension",
         "kintone",
-        "KANBAN"
+        "log"
     ],
     "author": "emiksk <emiksk0910@gmail.com> (https://github.com/emiksk/)",
     "license": "MIT"
