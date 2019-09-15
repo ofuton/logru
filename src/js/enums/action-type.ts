@@ -4,5 +4,8 @@
 
 enum ActionType {
   LIKE,
-  VISIT
+  VISIT,
+  UNKNOWN
 }
+
+export { ActionType }
